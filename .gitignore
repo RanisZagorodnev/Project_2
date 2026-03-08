@@ -1,8 +1,13 @@
+# Python кэш и компилированные файлы
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Виртуальное окружение
 .env
 .venv
-.idea
-.vscode
+
+# IDE и редакторы
+.vscode/
+.idea/
